@@ -9,9 +9,9 @@ export default function Cards({ header }) {
         <p className="card-text">
           With supporting text below as a natural lead-in to additional content.
         </p>
-        <a href="#" className="btn btn-primary">
+        <button type="button" className="btn btn-primary">
           Go somewhere
-        </a>
+        </button>
       </div>
     </div>
   )

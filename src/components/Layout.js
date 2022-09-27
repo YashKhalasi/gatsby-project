@@ -8,9 +8,7 @@ export default function Layout({ children }) {
       <Navbar />
       <div className="content">{children}</div>
 
-      <footer className="">
-        <p>copyrights 2022 gatsby</p>
-      </footer>
+      <footer className="">{/* <p>copyrights 2022 gatsby</p> */}</footer>
     </div>
   )
 }
