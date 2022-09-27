@@ -10,37 +10,37 @@ export default function Navbar() {
         </Link>
       </span>
       <span className="px-2">
-        <Link to="/contactus">
+        <Link to="/contact-us">
           <b className="text-black">contact us</b>
         </Link>
       </span>
       <span className="px-2">
-        <Link to="/businessunits/voipelements">
+        <Link to="/business-units/voip-elements">
           <b className="text-black">Voip Elements</b>
         </Link>
       </span>
       <span className="px-2">
-        <Link to="/businessunits/itelements">
+        <Link to="/business-units/it-elements">
           <b className="text-black">IT Elements</b>
         </Link>
       </span>
       <span className="px-2">
-        <Link to="/businessunits/cloudelements">
+        <Link to="/business-units/cloud-elements">
           <b className="text-black">Cloud Elements</b>
         </Link>
       </span>
       <span className="px-2">
-        <Link to="/businessunits/growthelements">
+        <Link to="/business-units/growth-elements">
           <b className="text-black">Growth Elements</b>
         </Link>
       </span>
       <span className="px-2">
-        <Link to="/businessunits/iotelements">
+        <Link to="/business-units/iot-elements">
           <b className="text-black">IOT Elements</b>
         </Link>
       </span>
       <span className="px-2">
-        <Link to="/statictemplates">
+        <Link to="/static-templates">
           <b className="text-black">Static Templates</b>
         </Link>
       </span>
